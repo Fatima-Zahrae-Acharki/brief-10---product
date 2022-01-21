@@ -1,0 +1,40 @@
+.btn {
+  background-color: rgb(224, 224, 224);
+}
+.btn:hover {
+  background-color: #b54163;
+}
+
+#srch {
+  height: 48px;
+  width: 632px;
+}
+img,
+svg {
+  padding: 0px 15px;
+}
+tr {
+  font-size: 25px;
+}
+/* td{
+    border: #b54163 solid;
+} */
+/* #t{
+    
+} */
+/* .table_sortable thead th.desc:after {
+    content: '↑';
+  }
+  
+  .table_sortable thead th.asc:after {
+    content: '↓';
+  } */
+
+#hd {
+  text-align: center;
+  border: #b54163 solid;
+}
+#all {
+  text-align: center;
+  border: #b54163 solid;
+}
